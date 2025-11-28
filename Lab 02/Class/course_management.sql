@@ -1,3 +1,5 @@
+CREATE DATABASE university;
+
 CREATE TABLE course ( 
 course_code VARCHAR(20) PRIMARY KEY, course_name VARCHAR(20) NOT NULL,
 credit INT
